@@ -29,22 +29,19 @@ Provides internet access for package installation and system updates.
 ### Adapter 2 — Host-Only Adapter
 Creates an isolated internal network between virtual machines for secure communication.
 # 💻 Technologies Used
-Ubuntu Linux
-Oracle VirtualBox
-Apache2
-vsftpd
-bind9
-isc-dhcp-server
-⚙️ Project Workflow
-Install Ubuntu on VirtualBox
-Configure NAT and Host-Only adapters
-Install required Linux network services
-Configure FTP, DNS, DHCP, and Apache servers
-Test communication between client and server systems
+- Ubuntu Linux
+- Oracle VirtualBox
+- Apache2
+- vsftpd
+- bind9
+- isc-dhcp-server
+# ⚙️ Project Workflow
+- Install Ubuntu on VirtualBox
+- Configure NAT and Host-Only adapters
+- Install required Linux network services
+- Configure FTP, DNS, DHCP, and Apache servers
+- Test communication between client and server systems
 # 🎯 Project Objective
-
 The objective of this project is to develop practical understanding of Linux networking, server administration, virtual networking, and deployment of enterprise-level network services in a virtual environment.
-
-✅ Conclusion
-
+# ✅ Conclusion
 This project successfully demonstrates the configuration and deployment of essential Linux network services using Ubuntu and VirtualBox. It provides hands-on experience with network administration, service management, and virtual infrastructure setup commonly used in enterprise environments.
