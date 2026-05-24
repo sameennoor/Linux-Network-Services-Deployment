@@ -1,5 +1,5 @@
 # Linux Network Services Deployment using Ubuntu & VirtualBox
-This project demonstrates the installation, configuration, and management of essential Linux network services using Ubuntu Linux in a virtualized environment powered by Oracle VirtualBox. The system simulates a small enterprise network consisting of server and client machines communicating through configured virtual adapters.
+This project demonstrates the installation, configuration, and management of essential Linux network services using **Ubuntu Linux** in a virtualized environment powered by **Oracle VirtualBox**. The system simulates a small enterprise network consisting of server and client machines communicating through configured virtual adapters.
 The project focuses on practical implementation of networking concepts, Linux server administration, and deployment of commonly used network services.
 
 # 🚀 Features
